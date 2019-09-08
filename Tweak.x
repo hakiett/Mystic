@@ -1,4 +1,4 @@
-//iOS 11
+//iOS 10 & 11
 
 %hook SBUICallToActionLabel
 
