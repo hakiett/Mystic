@@ -1,0 +1,9 @@
+Package: com.kaitouiet.mystic
+Name: Mystic
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Changes "Press Home To Unlock" or "Swipe up to Unlock" to Battery Percentage
+Maintainer: Kiet Ha
+Author: Kiet Ha
+Section: Tweaks
